@@ -3694,3 +3694,47 @@ Spartan Fire: RLCraft: Requires version 1.1.0 but client has 0.08.
 [17:18:13] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
 [17:19:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS died from hypothermia
 [17:19:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2831ms behind, skipping 56 tick(s)
+[17:20:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3802ms behind, skipping 76 tick(s)
+[17:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Zombie
+[17:20:15] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 408 and chunkZ -357...
+[17:20:15] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 6526, "y": 0, "z": -5822}...
+[17:20:16] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 6526, "y": 0, "z": -5822}.
+[17:20:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3242ms behind, skipping 64 tick(s)
+[17:20:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Barghest
+[17:20:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was shot by Stray
+[17:20:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3563ms behind, skipping 71 tick(s)
+[17:20:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Sea Serpent
+[17:20:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2237ms behind, skipping 44 tick(s)
+[17:21:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was shot by Skeleton
+[17:21:30] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 357 and chunkZ 408...
+[17:21:30] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 5831, "y": 0, "z": 6389}...
+[17:21:31] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 5831, "y": 0, "z": 6389}.
+[17:21:31] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[17:21:31] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[17:21:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3091ms behind, skipping 61 tick(s)
+[17:23:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Lacedon
+[17:23:13] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -6968 | -3672 ], underground: false
+[17:23:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2160ms behind, skipping 43 tick(s)
+[17:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Sea Serpent
+[17:23:28] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.entity.EntityGorgon$4!
+[17:23:28] [Server thread/INFO] [ISeeDragons]: Applying patch [HookGorgonHead] Hook EntityGorgon$4 to stop some entities from getting stoned
+[17:23:28] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.entity.EntityGorgon$4 with flags FRAMES
+[17:23:28] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[17:23:28] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[17:23:28] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[17:23:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:23:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:23:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:23:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:23:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:23:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:23:32] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:23:33] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:24:06] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:24:06] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[17:24:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS drowned
+[17:24:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2554ms behind, skipping 51 tick(s)
+[17:25:33] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -612 and chunkZ -306...
+[17:25:33] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_mountain_builtin_custom_loot at {"x": -9699, "y": 0, "z": -4836}...
+[17:25:34] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_mountain_builtin_custom_loot at {"x": -9699, "y": 0, "z": -4836}.
+[17:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS died from hypothermia
