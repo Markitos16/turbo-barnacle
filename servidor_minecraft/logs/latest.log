@@ -3718,3 +3718,19 @@ OfflineSkins: Requires version 1.12.2-v6 but mod is not found on client.
 [18:17:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> lo digo por el ping
 [18:17:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ah no
 [18:17:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> si va bien
+[18:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> hp es de noche
+[18:17:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> preparate pa morir
+[18:17:33] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 459 and chunkZ 102...
+[18:17:34] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 7391, "y": 0, "z": 1574}...
+[18:17:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:17:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:17:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[18:17:36] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 7391, "y": 0, "z": 1574}.
+[18:17:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2918ms behind, skipping 58 tick(s)
+[18:17:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: dilan moved too quickly! 5.331402844630247,-0.7532000064849882,8.453493846034917
+[18:17:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> juemadre si
+[18:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> abajo de la arena voy a estar
+[18:18:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ya vengo
+[18:18:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> dale
+[18:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS has made the advancement [Monster Hunter]
+[18:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS burned to death
