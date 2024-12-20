@@ -3734,3 +3734,14 @@ OfflineSkins: Requires version 1.12.2-v6 but mod is not found on client.
 [18:18:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> dale
 [18:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS has made the advancement [Monster Hunter]
 [18:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS burned to death
+[18:28:44] [Server thread/INFO] [AUW]: Stopping DS...
+[18:28:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:28:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:28:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dilan lost connection: Disconnected
+[18:28:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan left the game
+[18:28:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:28:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[18:28:44] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[18:28:44] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:28:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:28:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players

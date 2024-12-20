@@ -3187,12 +3187,18 @@
           "claimed:1": 0,
           "uuid:8": "fb4af87b-f048-3be3-8d8b-1e96660c7e0d",
           "timestamp:4": 1734718590269
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "uuid:8": "ca3ebe79-83e9-3f07-9d8a-fba71a34b07c",
+          "timestamp:4": 1734719311634
         }
       },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {
-            "0:8": "fb4af87b-f048-3be3-8d8b-1e96660c7e0d"
+            "0:8": "ca3ebe79-83e9-3f07-9d8a-fba71a34b07c",
+            "1:8": "fb4af87b-f048-3be3-8d8b-1e96660c7e0d"
           },
           "userProgress:9": {
             "0:10": {
@@ -3200,6 +3206,12 @@
                 "0:3": 1
               },
               "uuid:8": "fb4af87b-f048-3be3-8d8b-1e96660c7e0d"
+            },
+            "1:10": {
+              "data:9": {
+                "0:3": 1
+              },
+              "uuid:8": "ca3ebe79-83e9-3f07-9d8a-fba71a34b07c"
             }
           },
           "index:3": 2,
