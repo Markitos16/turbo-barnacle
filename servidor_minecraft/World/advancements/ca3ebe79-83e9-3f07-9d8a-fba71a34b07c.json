@@ -475,6 +475,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2024-12-21 04:22:51 +0000"
+    },
+    "done": true
+  },
   "craftablechainmail:craft_iron_nugget": {
     "criteria": {
       "iron_nugget": "2024-12-21 04:11:39 +0000"
@@ -514,6 +520,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-21 04:26:58 +0000"
     },
     "done": true
   },
@@ -727,6 +739,12 @@
   "wolfarmor:recipes/combat/diamond_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-21 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "craft": "2024-12-21 04:22:49 +0000"
     },
     "done": true
   },
