@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/the_ravager": {
+    "criteria": {
+      "has_material": "2024-12-21 03:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-21 02:59:23 +0000"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_axe": {
+    "criteria": {
+      "has_material": "2024-12-21 03:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-20 18:35:55 +0000"
@@ -328,6 +340,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:13:52 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_shovel": {
+    "criteria": {
+      "has_material": "2024-12-21 03:33:27 +0000"
     },
     "done": true
   },
@@ -436,6 +454,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:50:03 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_stone": {
+    "criteria": {
+      "has_material": "2024-12-21 03:33:27 +0000"
     },
     "done": true
   },
@@ -625,6 +649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-21 03:29:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-21 03:19:53 +0000"
@@ -635,6 +665,7 @@
     "criteria": {
       "skeleton": "2024-12-20 19:03:27 +0000",
       "zombie": "2024-12-20 18:56:07 +0000",
+      "cave_spider": "2024-12-21 03:33:09 +0000",
       "creeper": "2024-12-20 19:26:02 +0000"
     },
     "done": false
@@ -642,6 +673,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-20 20:00:56 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/idol_sorrow": {
+    "criteria": {
+      "has_material": "2024-12-21 03:33:27 +0000"
     },
     "done": true
   },
@@ -975,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-21 03:29:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 03:25:53 +0000"
@@ -1077,6 +1120,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2024-12-21 03:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2024-12-21 03:19:53 +0000"
@@ -1098,6 +1147,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 03:25:53 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_pickaxe": {
+    "criteria": {
+      "has_material": "2024-12-21 03:33:27 +0000"
     },
     "done": true
   },
@@ -1279,6 +1334,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-21 03:19:53 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2024-12-21 03:33:27 +0000"
     },
     "done": true
   },

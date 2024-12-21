@@ -3748,3 +3748,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
 [03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
 [03:26:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -2008 | 7016 ], underground: false
+[03:30:51] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[03:30:51] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[03:30:51] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[03:30:51] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[03:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was slain by Zombie
+[03:33:55] [Thread-97/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ca3ebe79-83e9-3f07-9d8a-fba71a34b07c.
+[03:34:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dilan lost connection: Disconnected
+[03:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan left the game
