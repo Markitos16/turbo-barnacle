@@ -490,6 +490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-21 22:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 03:19:58 +0000"
@@ -821,6 +827,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 03:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:31 +0000"
     },
     "done": true
   },
@@ -1172,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-20 18:37:56 +0000"
@@ -1309,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:31 +0000"
+    },
+    "done": true
+  },
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2024-12-21 03:19:53 +0000"
@@ -1399,6 +1423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 03:19:53 +0000"
@@ -1456,6 +1486,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-20 18:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-21 22:11:31 +0000"
     },
     "done": true
   },
