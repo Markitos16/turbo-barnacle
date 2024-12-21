@@ -706,6 +706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-21 04:38:01 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/idol_sorrow": {
     "criteria": {
       "has_material": "2024-12-21 03:33:27 +0000"
@@ -727,6 +733,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-21 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-21 04:38:01 +0000"
     },
     "done": true
   },
@@ -961,6 +973,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 03:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-21 04:36:03 +0000"
     },
     "done": true
   },

@@ -3828,3 +3828,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:24:27] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [04:24:27] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [04:24:27] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[04:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS has made the advancement [Ice Bucket Challenge]
+[04:34:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS has made the advancement [Take Aim]
+[04:36:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan has made the advancement [Not Today, Thank You]
+[04:36:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was shot by KROKYS
+[04:36:37] [Thread-192/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ca3ebe79-83e9-3f07-9d8a-fba71a34b07c.
+[04:36:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[04:39:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Chupacabra
+[04:39:46] [Thread-198/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for fb4af87b-f048-3be3-8d8b-1e96660c7e0d.
