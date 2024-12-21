@@ -3724,3 +3724,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:14:45] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [03:14:45] [Server thread/INFO] [Meson ASM]: Patch result: true
 [03:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Volcan  Lvl 2
+[03:19:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 622eb2fb-a885-432e-94f8-7f5539dc7693
+[03:20:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS tried to swim in lava to escape Volcan  Lvl 2
+[03:20:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was burnt to a crisp whilst fighting Volcan  Lvl 2
+[03:21:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Volcan  Lvl 2
+[03:21:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Volcan  Lvl 2
+[03:22:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Volcan  Lvl 2
+[03:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Volcan  Lvl 2
+[03:25:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan has made the advancement [Isn't It Iron Pick]
+[03:25:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan has made the advancement [Suit Up]
+[03:26:36] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id doorTileEntity
+[03:26:36] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id doorTileEntity
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.burnoutReduction'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.manaRegenModifier'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxBurnoutBonus'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxManaBonus'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.burnoutReduction'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.manaRegenModifier'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxBurnoutBonus'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxManaBonus'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
+[03:26:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
+[03:26:40] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -2008 | 7016 ], underground: false

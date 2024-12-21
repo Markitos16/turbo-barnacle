@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-21 03:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-20 18:42:56 +0000"
@@ -224,6 +230,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-20 19:44:16 +0000",
+      "apple": "2024-12-21 03:28:10 +0000",
       "bread": "2024-12-20 20:42:45 +0000"
     },
     "done": false
@@ -363,6 +370,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-20 18:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-21 03:22:32 +0000"
     },
     "done": true
   },
@@ -644,6 +657,12 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2024-12-21 03:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 17:27:10 +0000"
@@ -743,6 +762,12 @@
   "mujmajnkraftsbettersurvival:stone_nunchaku": {
     "criteria": {
       "has_stone": "2024-12-20 18:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-21 03:22:33 +0000"
     },
     "done": true
   },
@@ -902,6 +927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-21 03:22:33 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_hammer": {
     "criteria": {
       "has_diamond": "2024-12-20 18:43:42 +0000"
@@ -965,6 +996,12 @@
   "mujmajnkraftsbettersurvival:diamond_spear": {
     "criteria": {
       "has_diamond": "2024-12-20 18:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-21 03:22:32 +0000"
     },
     "done": true
   },
@@ -1038,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-21 03:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2024-12-20 17:20:36 +0000"
@@ -1092,6 +1135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-21 03:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 19:32:38 +0000"
@@ -1119,6 +1168,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-20 19:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2024-12-21 03:22:33 +0000"
     },
     "done": true
   },
