@@ -332,6 +332,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-20 18:57:10 +0000",
+      "apple": "2024-12-21 03:16:24 +0000",
       "bread": "2024-12-21 02:59:34 +0000"
     },
     "done": false
@@ -730,6 +731,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-20 20:00:46 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-21 03:13:46 +0000"
     },
     "done": true
   },
