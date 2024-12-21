@@ -3689,3 +3689,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:55:26] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player dilan
 [02:55:26] [Server thread/INFO] [XAT]: Syncing Config to dilan
 [02:55:26] [Thread-35/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ca3ebe79-83e9-3f07-9d8a-fba71a34b07c.
+[02:59:30] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[02:59:30] [Server thread/INFO] [RB-Transformer]:  - <init>
+[02:59:30] [Server thread/INFO] [RB-Transformer]:  - Done
+[02:59:30] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[02:59:30] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[02:59:30] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[03:01:49] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[03:01:49] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[03:01:49] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[03:01:49] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[03:01:49] [Server thread/INFO] [Meson ASM]: Patch result: true
+[03:03:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dilan lost connection: Timed out
+[03:03:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan left the game
+[03:04:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity

@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-21 02:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-20 18:37:47 +0000"
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-21 02:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:13:52 +0000"
@@ -319,7 +331,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2024-12-20 18:57:10 +0000"
+      "cooked_porkchop": "2024-12-20 18:57:10 +0000",
+      "bread": "2024-12-21 02:59:34 +0000"
     },
     "done": false
   },
@@ -559,7 +572,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-12-21 02:58:23 +0000",
       "beaches": "2024-12-20 18:50:28 +0000",
+      "forest_hills": "2024-12-21 02:58:51 +0000",
       "plains": "2024-12-20 18:42:28 +0000",
       "redwood_taiga": "2024-12-20 18:41:49 +0000",
       "ocean": "2024-12-20 20:05:39 +0000",
