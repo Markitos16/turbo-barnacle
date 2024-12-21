@@ -3836,3 +3836,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:36:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
 [04:39:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Chupacabra
 [04:39:46] [Thread-198/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for fb4af87b-f048-3be3-8d8b-1e96660c7e0d.
+[04:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
+[04:42:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was slain by Feradon
+[04:43:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[04:44:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was shot by Skeleton
+[04:45:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
+[04:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was slain by Enderman
+[04:45:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[04:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was slain by Feradon
+[04:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[04:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Peaceful]
