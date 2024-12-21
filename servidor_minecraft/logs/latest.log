@@ -3847,3 +3847,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was slain by Feradon
 [04:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
 [04:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Peaceful]
+[04:50:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was electrocuted after failing to pick an enchanted lock
+[04:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[04:59:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
