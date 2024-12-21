@@ -337,6 +337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 04:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 20:13:52 +0000"
@@ -469,6 +475,12 @@
     },
     "done": true
   },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2024-12-21 04:11:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 03:19:58 +0000"
@@ -586,6 +598,12 @@
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2024-12-20 18:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-21 04:12:01 +0000"
     },
     "done": true
   },
@@ -715,6 +733,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-21 03:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 04:12:01 +0000"
     },
     "done": true
   },
@@ -853,6 +877,12 @@
   "mujmajnkraftsbettersurvival:diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2024-12-20 20:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2024-12-21 04:14:25 +0000"
     },
     "done": true
   },
@@ -1120,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-21 04:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:50:03 +0000"
@@ -1177,10 +1213,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-21 02:58:23 +0000",
+      "birch_forest": "2024-12-21 04:13:21 +0000",
       "beaches": "2024-12-20 18:50:28 +0000",
       "forest_hills": "2024-12-21 02:58:51 +0000",
       "plains": "2024-12-20 18:42:28 +0000",
       "redwood_taiga": "2024-12-20 18:41:49 +0000",
+      "birch_forest_hills": "2024-12-21 04:13:42 +0000",
       "ocean": "2024-12-20 20:05:39 +0000",
       "roofed_forest": "2024-12-20 18:42:42 +0000",
       "river": "2024-12-20 18:41:17 +0000"
@@ -1226,6 +1264,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-20 18:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-12-21 04:14:25 +0000"
     },
     "done": true
   },
@@ -1316,6 +1360,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-21 03:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2024-12-21 04:12:01 +0000"
     },
     "done": true
   },
