@@ -3723,3 +3723,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:56:39] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [21:56:39] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [21:56:39] [Server thread/INFO] [Meson ASM]: Patch result: true
+[22:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
+[22:01:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was shot by Skeleton
+[22:01:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[22:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Peaceful]
+[22:04:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Easy]
+[22:07:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was shot by Skeleton
