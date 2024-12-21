@@ -3805,3 +3805,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:56:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was shot by Skeleton
 [03:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was shot by Skeleton
 [03:59:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Normal
+[03:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped KROKYS
+[04:01:57] [Server thread/WARN] [com.matthewprenger.helpfixer.HelpFixer]: Identified command with null usage, Ignoring: com.github.fnar.roguelike.command.CommandRoguelike1_12
+[04:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Opped dilan]
