@@ -476,15 +476,15 @@
     },
     "done": true
   },
-  "spartanweaponry:root": {
-    "criteria": {
-      "handle_in_inventory": "2024-12-21 04:22:51 +0000"
-    },
-    "done": true
-  },
   "craftablechainmail:craft_iron_nugget": {
     "criteria": {
       "iron_nugget": "2024-12-21 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2024-12-21 04:22:51 +0000"
     },
     "done": true
   },
