@@ -3761,3 +3761,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:23:22] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player dilan
 [22:23:22] [Server thread/INFO] [XAT]: Syncing Config to dilan
 [22:24:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[22:31:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS has made the advancement [Suit Up]
+[22:35:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was shot by Skeleton
+[22:36:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -692.5, 105.0, -5660.5]
+[22:37:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was shot by Skeleton
+[22:37:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -698.5, 105.5, -5656.5]
+[22:37:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was shot by Skeleton
+[22:37:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -695.5, 105.5, -5653.5]
+[22:45:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
+[22:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[22:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan has made the advancement [Cover Me With Diamonds]

@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 22:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 04:52:45 +0000"
@@ -314,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-21 22:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 04:23:31 +0000"
@@ -476,6 +488,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-21 22:38:16 +0000"
+    },
+    "done": true
+  },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2024-12-21 22:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 19:32:38 +0000"
@@ -485,6 +509,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2024-12-21 04:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-21 22:31:08 +0000"
     },
     "done": true
   },
@@ -743,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-12-21 22:43:00 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2024-12-20 19:38:51 +0000"
@@ -782,6 +818,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-20 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-12-21 22:44:19 +0000"
     },
     "done": true
   },
@@ -1413,6 +1455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-12-21 22:43:15 +0000"
+    },
+    "done": true
+  },
   "defiledlands:main/root": {
     "criteria": {
       "desert_defiled": "2024-12-20 18:36:45 +0000"
@@ -1554,6 +1602,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-20 19:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-21 22:38:16 +0000"
     },
     "done": true
   },

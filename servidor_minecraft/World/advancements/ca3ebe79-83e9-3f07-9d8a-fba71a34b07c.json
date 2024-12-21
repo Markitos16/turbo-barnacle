@@ -173,6 +173,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-21 22:47:00 +0000",
+      "diamond_helmet": "2024-12-21 22:47:00 +0000",
+      "diamond_chestplate": "2024-12-21 22:47:00 +0000",
+      "diamond_boots": "2024-12-21 22:47:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:50:03 +0000"
@@ -319,6 +328,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-20 18:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-21 22:44:18 +0000"
     },
     "done": true
   },
@@ -499,6 +514,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2024-12-21 22:42:55 +0000"
     },
     "done": true
   },
@@ -848,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 22:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-21 03:19:53 +0000"
@@ -869,6 +896,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/gold_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-21 22:42:55 +0000"
     },
     "done": true
   },
@@ -1447,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2024-12-21 22:44:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-20 18:35:54 +0000"
@@ -1528,6 +1567,12 @@
   "defiledlands:recipes/material/ravaging_ingot": {
     "criteria": {
       "has_material": "2024-12-21 03:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-21 22:42:55 +0000"
     },
     "done": true
   },
