@@ -4052,3 +4052,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:37:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> comos e llamaba la mesa que quitaba los encantamientos
 [23:37:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> y se las ponia a los libros
 [23:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> disenchat
+[23:41:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> abramos los regalos
+[23:41:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos
+[23:42:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> duerm
+[23:42:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> tengo escudo de hierro
+[23:42:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> si queires uno
+[23:42:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> a no
+[23:42:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> que tienes de diamante
+[23:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> apoura ligero
+[23:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> mas hierro ve
+[23:44:48] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[23:44:48] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[23:44:48] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:44:48] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[23:44:48] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:44:48] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[23:44:48] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[23:44:48] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:44:48] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[23:44:48] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos
+[23:45:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> a abrir los regalos
+[23:45:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> aguantate
+[23:45:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ey
+[23:46:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> puedes ayudarme a pasar
+[23:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> todo esto
+[23:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> lo que esta dentro del cofre?
+[23:46:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> sisas
+[23:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan has made the advancement [Into Fire]
+[23:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> voy a ve si hago
+[23:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> pilas
+[23:47:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> coloca cofre alla
+[23:47:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> una subida para los cofres
+[23:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> no hay no
+[23:47:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> bueno ya qe
+[23:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ahi esta bien
+[23:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> queria hacer
+[23:47:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> una subida
+[23:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> mi cama abajo
+[23:47:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> y los cofres areriba
