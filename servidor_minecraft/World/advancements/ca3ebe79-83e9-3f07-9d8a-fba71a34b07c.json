@@ -886,15 +886,15 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:gold_spear": {
-    "criteria": {
-      "has_gold": "2024-12-21 03:25:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-12-21 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:gold_spear": {
+    "criteria": {
+      "has_gold": "2024-12-21 03:25:53 +0000"
     },
     "done": true
   },
@@ -1102,15 +1102,15 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:gold_battleaxe": {
-    "criteria": {
-      "has_gold": "2024-12-21 03:25:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:gold_battleaxe": {
+    "criteria": {
+      "has_gold": "2024-12-21 03:25:53 +0000"
     },
     "done": true
   },
@@ -1208,6 +1208,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-12-20 18:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-21 03:54:57 +0000"
     },
     "done": true
   },
