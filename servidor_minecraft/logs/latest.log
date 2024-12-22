@@ -126,3 +126,62 @@
 [00:48:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -669.5, 65.0, -5486.5]
 [00:48:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> por gey
 [00:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set game difficulty to Easy]
+[00:49:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> vamos pa otro lao
+[00:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> vamos
+[00:50:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS has made the advancement [Deep Purple]
+[00:50:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos
+[00:51:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:51:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:51:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:51:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:51:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:51:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:51:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:51:58] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id doorTileEntity
+[00:51:58] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id doorTileEntity
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.burnoutReduction'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.manaRegenModifier'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxBurnoutBonus'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxManaBonus'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.burnoutReduction'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.manaRegenModifier'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxBurnoutBonus'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxManaBonus'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
+[00:51:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
+[00:52:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> donde andas
+[00:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> tp a mi
+[00:53:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:53:35] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:53:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> y eso que hay
+[00:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> una mansion
+[00:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
+[00:55:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> mas bien pa vivir
+[00:55:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ALDEAAAAAAAAAAAA
+[00:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> dragonnnnnnnnnnnnnn
+[00:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> mas bien pa vivir
+[00:55:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> AAAAAAAAAAAAA
+[00:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
+[00:55:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> maldito crv
+[00:56:01] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins detected attempt to damage Dragon while not ticking, cancelling
+[00:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> dame una flecha
+[00:56:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ven que tengo infinidad
+[00:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> o coje
+[00:56:55] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins detected attempt to damage Dragon while not ticking, cancelling
+[00:56:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan was shot by KROKYS using    [Elven Bow]
+[00:57:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> joda
+[00:57:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> AJJAJAJAJA
+[00:57:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -367.5, 74.0, -5364.5]
+[00:57:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> QLE CHACRAZO
+[00:57:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> por no ponber pared
+[00:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ey
+[00:57:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> te dejastes vainas
+[00:57:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> eyyy
+[00:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> pilla
+[00:57:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> aca salen vaians
+[00:58:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ey
+[00:58:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> me falta un amuleto
+[00:58:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> cual
+[00:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ya
