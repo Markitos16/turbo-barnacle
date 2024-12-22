@@ -300,3 +300,10 @@
 [01:47:41] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player KROKYS)
 [01:47:42] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player KROKYS)
 [01:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Creative Mode]
+[01:49:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Survival Mode]
+[01:54:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Creative Mode]
+[01:54:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Survival Mode]
+[01:55:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Creative Mode]
+[01:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Survival Mode]
+[01:56:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Creative Mode]
+[01:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Survival Mode]

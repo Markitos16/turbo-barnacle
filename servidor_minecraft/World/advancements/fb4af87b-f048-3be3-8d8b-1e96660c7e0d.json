@@ -928,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-22 01:49:47 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/umbrium_chestplate": {
     "criteria": {
       "has_material": "2024-12-22 00:50:24 +0000"
@@ -1465,6 +1471,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-20 19:33:17 +0000"
+    },
+    "done": true
+  },
+  "qualitytools:recipes/qualitytools/reforging_station": {
+    "criteria": {
+      "has_anvil": "2024-12-22 01:49:54 +0000"
     },
     "done": true
   },
