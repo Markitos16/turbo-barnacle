@@ -345,3 +345,58 @@
 [02:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan has made the advancement [Enchanter]
 [02:18:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> mani te puedo coger libros de prote 1
 [02:18:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> si coge lo que quieras
+[02:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> mani vamos a matar a un dragon
+[02:20:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> sisas
+[02:20:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ey tengo un encantamiento y que scope
+[02:20:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ajajajaj
+[02:20:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ey que mieerda
+[02:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> piya
+[02:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos a matar a siremas
+[02:21:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> joa mani cule vacile
+[02:21:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> aro
+[02:21:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> hay que matar sea snakes tambien
+[02:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> y sirena
+[02:21:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos q
+[02:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> hey aja cachon
+[02:24:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Easy]
+[02:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ey llookj
+[02:24:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> si ves una sea serpent hablas
+[02:24:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ahh las sirenas
+[02:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> duerme
+[02:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> duermo
+[02:25:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> se me perdio
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[02:25:26] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[02:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> no puedo
+[02:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> vamos
+[02:26:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: dilan moved wrongly!
+[02:26:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set the time to 1000]
+[02:26:52] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[02:26:52] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[02:26:52] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[02:26:52] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[02:26:52] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[02:26:52] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[02:26:52] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[02:28:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> tienes comifa
+[02:29:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> se [uede hacer armadura
+[02:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> de que
+[02:29:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ey ven
+[02:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> vamos al nido
+[02:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> de los bichos estos
+[02:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> nombe que
+[02:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> pa que
