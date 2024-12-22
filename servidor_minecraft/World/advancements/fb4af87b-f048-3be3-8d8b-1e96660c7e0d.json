@@ -454,6 +454,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-22 00:44:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-20 19:43:14 +0000"
@@ -762,6 +768,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-12-22 00:43:13 +0000",
       "skeleton": "2024-12-20 20:35:54 +0000",
       "zombie": "2024-12-20 18:22:55 +0000",
       "cave_spider": "2024-12-21 04:36:39 +0000",
