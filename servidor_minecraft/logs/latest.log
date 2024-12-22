@@ -628,3 +628,37 @@
 [03:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos
 [03:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set the time to 1000]
 [03:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ven marcos
+[03:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> esta bugeado el mundo
+[03:31:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> pq
+[03:31:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> eso es prque esta llivnedo
+[03:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Changing to clear weather]
+[03:33:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> torre
+[03:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ven
+[03:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> matate a esos esqueletos dfe abajo
+[03:35:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Rudolph The Bloodstained Jabberwock In Dimension: 0 Duration: 60secs
+[03:35:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> no tengo flechas
+[03:35:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> QUE MIERDA
+[03:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> que mierda
+[03:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos pa la casa
+[03:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> me asusto esa vaina
+[03:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> juemadre lo que haya fuera
+[03:35:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> no dalgas
+[03:36:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
+[03:36:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> xd
+[03:36:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> pa donde fuiste
+[03:36:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Rudolph The Bloodstained Jabberwock
+[03:36:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ya ven
+[03:36:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ya se acabo eso
+[03:36:42] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player KROKYS)
+[03:36:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ven mani
+[03:37:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Myrmex Worker
+[03:37:14] [Thread-536/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for fb4af87b-f048-3be3-8d8b-1e96660c7e0d.
+[03:37:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> enserio hey
+[03:37:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> e mato mi hijo :(
+[03:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Peaceful]
+[03:38:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ECHE
+[03:39:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> estaba en peaceful
+[03:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> y aparecian mobs
+[03:39:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ajJsajaj
+[03:40:19] [Server thread/ERROR] [RLTweaker]: Entity moving too fast! (aggressive) NaN com.lycanitesmobs.core.entity.creature.EntityCephignis - -1797.5 5.0 -5510.5 0.01841922823476561 NaN -0.04652578142640295 hurt time:0 dead:false pitch:NaN yaw:288.22998
+[03:40:19] [Server thread/ERROR] [RLTweaker]: Entity has bad rotation! (aggressive) NaN com.lycanitesmobs.core.entity.creature.EntityCephignis - -1797.5 5.0 -5510.5 0.01841922823476561 0.0 -0.04652578142640295 hurt time:0 dead:false pitch:NaN yaw:288.22998
