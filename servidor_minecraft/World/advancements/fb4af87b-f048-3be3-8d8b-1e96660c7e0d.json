@@ -519,15 +519,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2024-12-21 22:31:08 +0000"
-    },
-    "done": true
-  },
   "sereneseasons:recipes/tools/season_clock": {
     "criteria": {
       "has_redstone": "2024-12-21 22:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-21 22:31:08 +0000"
     },
     "done": true
   },
