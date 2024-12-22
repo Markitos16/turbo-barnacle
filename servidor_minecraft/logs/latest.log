@@ -608,3 +608,23 @@
 [03:18:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> no tengo flechas vale
 [03:19:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
 [03:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set the time to 1000]
+[03:20:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> mira esa vainq
+[03:20:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> se pue
+[03:20:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ya la vi
+[03:22:39] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -102 and chunkZ -306...
+[03:22:39] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -1515, "y": 0, "z": -4698}...
+[03:22:41] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": -1515, "y": 0, "z": -4698}.
+[03:22:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KROKYS moved too quickly! 2.7321668426413908,0.0,9.706912625242694
+[03:22:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2324ms behind, skipping 46 tick(s)
+[03:22:55] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[03:22:55] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[03:22:55] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[03:22:55] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[03:26:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> mani tpeate a mi
+[03:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> otra casa de whiter skeleton
+[03:27:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
+[03:28:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> de una
+[03:28:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> vamos
+[03:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos
+[03:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set the time to 1000]
+[03:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> ven marcos
