@@ -271,3 +271,32 @@
 [01:39:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> cuantos corazones dice que tengo
 [01:39:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> dime primero
 [01:39:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> 12
+[01:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> 12
+[01:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> erda
+[01:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> yo tengo 12
+[01:39:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ahora
+[01:39:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> 11
+[01:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> eche verda
+[01:40:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> a mi me salen 14
+[01:41:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> sabes qe tengo ganas de jugar tmb
+[01:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> un skyblock
+[01:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> joa mani si
+[01:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> pero joa
+[01:42:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> te acuerdas el de aque.lla vez que jugamos
+[01:42:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> si tardaba en cargar
+[01:42:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> aro
+[01:42:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ese es el mas bueno
+[01:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> all te mods
+[01:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> aro
+[01:43:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> monda con los niveles
+[01:43:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dilan lost connection: Timed out
+[01:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan left the game
+[01:45:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Creative Mode]
+[01:46:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Survival Mode]
+[01:47:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Creative Mode]
+[01:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Survival Mode]
+[01:47:39] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player KROKYS)
+[01:47:40] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player KROKYS)
+[01:47:41] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player KROKYS)
+[01:47:42] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player KROKYS)
+[01:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Creative Mode]
