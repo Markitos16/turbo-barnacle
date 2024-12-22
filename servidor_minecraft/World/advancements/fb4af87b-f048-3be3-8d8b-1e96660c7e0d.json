@@ -357,6 +357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-22 01:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 04:23:31 +0000"
@@ -1096,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2024-12-22 01:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-20 19:32:38 +0000"
@@ -1515,6 +1527,7 @@
       "savanna": "2024-12-20 18:38:11 +0000",
       "plains": "2024-12-20 19:47:31 +0000",
       "taiga": "2024-12-20 17:19:39 +0000",
+      "taiga_hills": "2024-12-22 01:24:57 +0000",
       "birch_forest_hills": "2024-12-20 18:38:30 +0000",
       "taiga_cold": "2024-12-20 17:19:01 +0000",
       "ocean": "2024-12-20 17:21:27 +0000",
