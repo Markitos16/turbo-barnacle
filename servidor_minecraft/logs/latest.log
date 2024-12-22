@@ -3690,3 +3690,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -918.5, 64.0, -5731.5]
 [21:42:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set the time to 1000]
 [21:43:53] [Server thread/WARN] [com.matthewprenger.helpfixer.HelpFixer]: Identified command with null usage, Ignoring: com.github.fnar.roguelike.command.CommandRoguelike1_12
+[21:48:25] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[21:48:25] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[21:48:25] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[21:48:25] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[21:48:25] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[21:48:25] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[21:48:25] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[21:48:25] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-1928, y=42, z=-6024}
+[21:49:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3167ms behind, skipping 63 tick(s)
+[21:49:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: dilan moved too quickly! -8.867857744684898,-2.3345901754438074,4.481307222535179
+[21:51:09] [Server thread/WARN] [rlmixins.RLMixins]: RLMixins detected attempt to damage Dragon while not ticking, cancelling
+[21:52:07] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-2760, y=47, z=-6152}
+[21:52:14] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[21:53:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Peaceful]
+[21:53:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set the time to 1000]
