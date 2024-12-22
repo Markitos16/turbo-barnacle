@@ -3685,3 +3685,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:29:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9b8aca8a-472f-4083-8d0a-5a0b0c5451b5
 [21:29:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID d81b736a-06f0-48e5-99a8-b6c163152bc2
 [21:31:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID d81b736a-06f0-48e5-99a8-b6c163152bc2
+[21:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -1737.5, 45.0, -6475.5]
+[21:36:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:item that already exists with UUID d81b736a-06f0-48e5-99a8-b6c163152bc2
+[21:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -918.5, 64.0, -5731.5]
+[21:42:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set the time to 1000]
+[21:43:53] [Server thread/WARN] [com.matthewprenger.helpfixer.HelpFixer]: Identified command with null usage, Ignoring: com.github.fnar.roguelike.command.CommandRoguelike1_12
