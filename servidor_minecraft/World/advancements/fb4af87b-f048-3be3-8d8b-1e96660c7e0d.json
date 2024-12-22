@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-22 04:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 17:27:10 +0000"
@@ -858,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-22 04:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-20 19:32:56 +0000"
@@ -1599,6 +1611,7 @@
       "deep_ocean": "2024-12-20 17:20:37 +0000",
       "beaches": "2024-12-20 17:22:34 +0000",
       "extreme_hills_with_trees": "2024-12-20 20:20:47 +0000",
+      "forest_hills": "2024-12-22 04:06:42 +0000",
       "savanna": "2024-12-20 18:38:11 +0000",
       "plains": "2024-12-20 19:47:31 +0000",
       "taiga": "2024-12-20 17:19:39 +0000",

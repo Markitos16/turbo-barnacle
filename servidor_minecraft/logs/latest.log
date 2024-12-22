@@ -710,3 +710,156 @@
 [03:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> eso pa
 [03:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> quita los candados de lso cofres
 [03:59:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
+[04:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -1917.5, 10.5, -5455.5]
+[04:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
+[04:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -1917.5, 10.5, -5455.5]
+[04:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
+[04:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
+[04:03:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -1917.5, 10.5, -5455.5]
+[04:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> como desencanto sin perder la vaina de la armadura
+[04:04:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> con el dise
+[04:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
+[04:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> que haces
+[04:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> pq encantas tandto
+[04:05:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> voy a buscar mas corazones
+[04:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -1917.5, 10.5, -5455.5]
+[04:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> erda encontre un portal
+[04:09:15] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@7b0ebf68)
+[04:09:15] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[04:09:15] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[04:09:15] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[04:09:15] [Server thread/INFO] [antiqueatlas]: Exiting
+[04:09:15] [Server thread/INFO] [antiqueatlas]: Player KROKYS left the overworld
+[04:09:20] [Server thread/INFO] [antiqueatlas]: Entering
+[04:09:20] [Server thread/INFO] [antiqueatlas]: Player KROKYS teleported to the the_nether
+[04:09:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS has made the advancement [We Need to Go Deeper]
+[04:09:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5139ms behind, skipping 102 tick(s)
+[04:09:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KROKYS moved too quickly! 1639.2812259741825,92.0,4805.990567715529
+[04:09:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> me quede encerrao en el nether xd
+[04:10:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> por sapo
+[04:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was blown up by Wraith
+[04:11:10] [Thread-589/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for fb4af87b-f048-3be3-8d8b-1e96660c7e0d.
+[04:11:10] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[04:11:11] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:11:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> mierda
+[04:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> perdi to
+[04:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> viste
+[04:11:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> no em acompañaste
+[04:11:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> joa
+[04:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> qle bobo
+[04:11:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> jajaja
+[04:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -1917.5, 10.5, -5455.5]
+[04:12:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:12:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:12:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:12:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:12:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ponmlo en pacifico\
+[04:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Peaceful]
+[04:13:31] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@7b0ebf68)
+[04:13:31] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[04:13:31] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[04:13:31] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 313
+[04:13:31] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[04:13:31] [Server thread/INFO] [antiqueatlas]: Exiting
+[04:13:31] [Server thread/INFO] [antiqueatlas]: Player KROKYS left the overworld
+[04:13:32] [Server thread/INFO] [antiqueatlas]: Entering
+[04:13:32] [Server thread/INFO] [antiqueatlas]: Player KROKYS teleported to the the_nether
+[04:13:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KROKYS moved too quickly! 1638.1850632648213,92.0,4806.210429267213
+[04:14:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was burnt to a crisp whilst fighting Belphegor
+[04:14:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:03] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[04:14:04] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:14:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> mani
+[04:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> loco
+[04:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ayudame
+[04:14:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> eche pero si esta en peaceful
+[04:14:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vamos
+[04:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -1917.5, 10.5, -5455.5]
+[04:14:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> tpeame
+[04:14:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:14:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was shot by Skeleton
+[04:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> loco
+[04:14:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> cuando entro
+[04:14:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> se cambia la dificultad
+[04:15:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Peaceful]
+[04:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set game difficulty to Peaceful]
+[04:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> tepeate y me tepeas
+[04:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -1877.5, 9.5, -5457.5]
+[04:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> duerme
+[04:15:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> no te muevas
+[04:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> hay lava
+[04:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[04:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> VOY A ALISTAR EL COMANDO
+[04:15:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set the time to 1000]
+[04:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> NO ENTRES
+[04:15:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> quien te mata
+[04:15:47] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@7b0ebf68)
+[04:15:47] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[04:15:47] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[04:15:47] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 313
+[04:15:47] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[04:15:47] [Server thread/INFO] [antiqueatlas]: Exiting
+[04:15:47] [Server thread/INFO] [antiqueatlas]: Player KROKYS left the overworld
+[04:15:48] [Server thread/INFO] [antiqueatlas]: Entering
+[04:15:48] [Server thread/INFO] [antiqueatlas]: Player KROKYS teleported to the the_nether
+[04:15:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KROKYS moved too quickly! 1637.577800277562,92.0,4806.405697821471
+[04:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> aja que hago
+[04:16:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by Kathoga
+[04:16:06] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[04:16:06] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:16:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> quedate ahi
+[04:16:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> espues te matan
+[04:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> la idea es entrar
+[04:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> y ponerlo enseguida en pacifico
+[04:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> otra es que me ponga en creativo
+[04:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> xd
+[04:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
+[04:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Creative Mode]
+[04:16:42] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@7b0ebf68)
+[04:16:42] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[04:16:42] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[04:16:42] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 313
+[04:16:42] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[04:16:42] [Server thread/INFO] [antiqueatlas]: Exiting
+[04:16:42] [Server thread/INFO] [antiqueatlas]: Player KROKYS left the overworld
+[04:16:43] [Server thread/INFO] [antiqueatlas]: Entering
+[04:16:43] [Server thread/INFO] [antiqueatlas]: Player KROKYS teleported to the the_nether
+[04:16:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KROKYS moved too quickly! 1637.1211712871595,92.0,4806.429557349644
+[04:17:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> voy pa la casa
+[04:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> dale
+[04:18:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -923.5, 70.0, -5755.5]
+[04:18:17] [Server thread/INFO] [antiqueatlas]: Exiting
+[04:18:17] [Server thread/INFO] [antiqueatlas]: Player KROKYS left the the_nether
+[04:18:17] [Server thread/INFO] [antiqueatlas]: Entering
+[04:18:17] [Server thread/INFO] [antiqueatlas]: Player KROKYS teleported to the overworld
+[04:18:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KROKYS moved too quickly! -1636.8158534586032,-91.51491820600393,-4806.801384754655
+[04:18:17] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[04:18:18] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:18:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -923.5, 70.5, -5763.5]
+[04:18:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set own game mode to Survival Mode]
+[04:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> no podemos entrar al nether todavia
+[04:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> no mani eso es otro cuento
+[04:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> si los enemigos de aqui pegan
+[04:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> alla pegan el doble
+[04:19:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ey
+[04:19:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> pilla
+[04:19:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was burnt to a crisp whilst fighting Krampus
+[04:20:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> solo a ti se te ocurre
+[04:20:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> ajjaajajaja
+[04:20:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS was slain by dilan
+[04:20:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KROKYS moved wrongly!
