@@ -4165,3 +4165,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:01:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -670.5, 76.0, -5400.5]
 [20:02:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to dilan]
 [20:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -923.5, 70.0, -5755.5]
+[20:09:35] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player dilan)
+[20:10:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -925.5, 70.0, -5764.5]
+[20:10:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -670.5, 76.0, -5400.5]
+[20:11:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -925.5, 70.0, -5764.5]
+[20:12:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: dilan lost connection: Disconnected
+[20:12:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: dilan left the game
+[20:13:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -670.5, 76.0, -5400.5]
