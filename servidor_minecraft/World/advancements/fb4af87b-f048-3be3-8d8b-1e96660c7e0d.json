@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/foul_candy": {
+    "criteria": {
+      "has_material": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 19:32:38 +0000"
@@ -466,6 +472,13 @@
       "has_planks": "2024-12-20 19:33:33 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "slime_defiled": "2024-12-23 17:09:13 +0000",
+      "shambler": "2024-12-23 17:09:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -1127,6 +1140,12 @@
   "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
       "has_quartz": "2024-12-21 03:22:32 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/arrow_vilespine": {
+    "criteria": {
+      "has_material": "2024-12-23 17:08:03 +0000"
     },
     "done": true
   },
