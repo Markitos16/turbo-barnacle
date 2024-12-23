@@ -624,6 +624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-12-23 17:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-20 19:32:56 +0000"
@@ -1230,6 +1236,12 @@
   "defiledlands:recipes/armor/umbrium_boots": {
     "criteria": {
       "has_material": "2024-12-22 00:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-23 17:31:41 +0000"
     },
     "done": true
   },
