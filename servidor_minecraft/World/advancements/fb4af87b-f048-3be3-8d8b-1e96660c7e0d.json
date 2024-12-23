@@ -1029,6 +1029,12 @@
     },
     "done": true
   },
+  "defiledlands:main/book_wyrm_breed": {
+    "criteria": {
+      "breed_book_wyrm": "2024-12-23 17:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-20 19:32:38 +0000"
@@ -2210,6 +2216,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-20 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/book_wyrm_analyzer": {
+    "criteria": {
+      "breed_book_wyrm": "2024-12-23 17:43:11 +0000"
     },
     "done": true
   },
