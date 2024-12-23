@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "defiledlands:main/hephaestite": {
+    "criteria": {
+      "hephaestite": "2024-12-23 16:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-20 18:23:57 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/torch_hephaestite": {
+    "criteria": {
+      "has_material": "2024-12-23 16:54:55 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_nunchaku": {
     "criteria": {
       "has_diamond": "2024-12-20 18:43:42 +0000"
@@ -415,6 +427,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/hephaestite_block_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-23 16:55:03 +0000"
     },
     "done": true
   },
@@ -548,6 +566,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-20 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-23 16:54:57 +0000"
     },
     "done": true
   },
@@ -749,6 +773,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks": {
+    "criteria": {
+      "has_material": "2024-12-23 16:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-20 19:33:33 +0000"
@@ -791,9 +821,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone": {
+    "criteria": {
+      "has_material": "2024-12-23 16:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_mossy": {
+    "criteria": {
+      "has_material": "2024-12-23 16:54:57 +0000"
     },
     "done": true
   },
@@ -908,6 +950,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/material/defilement_powder": {
+    "criteria": {
+      "has_material": "2024-12-23 17:00:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-22 04:09:20 +0000"
@@ -971,6 +1019,18 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-20 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-23 16:54:57 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_mossy": {
+    "criteria": {
+      "has_material": "2024-12-23 16:54:57 +0000"
     },
     "done": true
   },
@@ -1436,6 +1496,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/hephaestite_block": {
+    "criteria": {
+      "has_material": "2024-12-23 16:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2024-12-20 19:33:33 +0000"
@@ -1735,6 +1801,12 @@
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2024-12-20 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/blastem_fruit_blazing": {
+    "criteria": {
+      "has_material": "2024-12-23 16:54:55 +0000"
     },
     "done": true
   },

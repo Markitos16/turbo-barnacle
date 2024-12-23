@@ -3708,3 +3708,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [16:54:47] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [16:54:47] [Server thread/INFO] [Meson ASM]: Patch result: true
 [16:54:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KROKYS has made the advancement [A Gift from the Fire Gods]
+[16:55:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> MANI
+[16:55:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> hay un encantamiento llamado
+[16:55:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> vitality
+[16:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> es buenisimo
+[16:55:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> mani ven
+[16:55:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> te suma corazones
+[16:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> y otro pa la espada
+[16:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> necesito poner esto en easy
+[16:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> se llama supreme sharpness
+[16:56:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> lo pondre en facil mani
+[16:56:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> oistes?
+[16:56:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> yo igual estyoy en la casa
+[16:56:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set the time to 1000]
+[16:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Changing to clear weather]
+[16:56:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set game difficulty to Easy]
+[16:58:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <dilan> mani como aplico un libro ancestral
+[16:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> mani
+[16:59:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> encontre dos de estos
+[16:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> pero joa
+[16:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> se necesita uno deorado
+[16:59:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KROKYS> no se mani
+[17:00:53] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[17:00:53] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[17:00:53] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[17:00:53] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[17:00:53] [Server thread/INFO] [Meson ASM]: Patch result: true
+[17:03:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Changing to clear weather]
+[17:04:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
