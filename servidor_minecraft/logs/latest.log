@@ -4153,3 +4153,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -923.5, 70.0, -5755.5]
 [19:32:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -673.5, 75.0, -5403.5]
 [19:32:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -670.5, 76.0, -5400.5]
+[19:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -670.5, 76.0, -5400.5]
+[19:38:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -925.5, 70.0, -5764.5]
+[19:41:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -923.5, 70.0, -5755.5]
+[19:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set the time to 1000]
+[19:45:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:45:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
