@@ -4159,3 +4159,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [19:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set the time to 1000]
 [19:45:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [19:45:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:53:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -773.5, 75.0, -4918.5]
+[19:55:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set the time to 1000]
+[19:57:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set game difficulty to Peaceful]
