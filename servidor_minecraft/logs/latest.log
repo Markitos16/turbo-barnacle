@@ -4113,3 +4113,8 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [18:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -292.5, 85.0, -3348.5]
 [18:51:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Set the time to 1000]
 [18:56:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -925.5, 70.0, -5764.5]
+[18:57:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported KROKYS to -670.5, 76.0, -5400.5]
+[18:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
+[18:58:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Teleported dilan to -292.5, 85.0, -3348.5]
+[19:02:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [dilan: Set the time to 1000]
+[19:06:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KROKYS: Teleported dilan to KROKYS]
