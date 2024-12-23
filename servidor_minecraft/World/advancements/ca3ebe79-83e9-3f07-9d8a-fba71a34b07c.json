@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-23 05:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-21 03:19:58 +0000"
@@ -462,6 +468,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-21 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2024-12-23 05:33:56 +0000"
     },
     "done": true
   },
@@ -1113,6 +1125,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2024-12-23 05:33:56 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/gold_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-21 22:42:55 +0000"
@@ -1311,6 +1329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-12-23 05:26:26 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:iron_hammer": {
     "criteria": {
       "has_iron": "2024-12-20 20:13:52 +0000"
@@ -1458,6 +1482,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-21 03:19:53 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2024-12-23 05:33:56 +0000"
     },
     "done": true
   },
@@ -1635,6 +1665,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2024-12-23 05:33:56 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/tools/ravaging_pickaxe": {
     "criteria": {
       "has_material": "2024-12-21 03:33:27 +0000"
@@ -1662,6 +1698,12 @@
   "defiledlands:recipes/tools/umbra_blaster": {
     "criteria": {
       "has_material": "2024-12-22 00:37:19 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2024-12-23 05:33:56 +0000"
     },
     "done": true
   },
@@ -1884,6 +1926,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2024-12-23 05:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2024-12-21 04:12:01 +0000"
@@ -2019,6 +2067,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-20 18:35:55 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2024-12-23 05:33:56 +0000"
     },
     "done": true
   },
