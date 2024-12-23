@@ -1447,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-23 02:47:24 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_spear": {
     "criteria": {
       "has_stick": "2024-12-20 18:23:57 +0000"
