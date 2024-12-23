@@ -254,6 +254,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_chestplate": {
+    "criteria": {
+      "has_material": "2024-12-23 19:31:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-20 20:00:56 +0000"
@@ -597,6 +603,12 @@
   "defiledlands:recipes/tools/umbrium_pickaxe": {
     "criteria": {
       "has_material": "2024-12-22 00:37:19 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_boots": {
+    "criteria": {
+      "has_material": "2024-12-23 19:31:50 +0000"
     },
     "done": true
   },
@@ -987,6 +999,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2024-12-21 23:46:52 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_helmet": {
+    "criteria": {
+      "has_material": "2024-12-23 19:31:50 +0000"
     },
     "done": true
   },
@@ -1569,6 +1587,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-21 03:25:53 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_leggings": {
+    "criteria": {
+      "has_material": "2024-12-23 19:31:50 +0000"
     },
     "done": true
   },
