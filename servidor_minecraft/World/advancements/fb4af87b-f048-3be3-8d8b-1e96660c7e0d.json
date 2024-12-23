@@ -510,6 +510,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/wood_defiled_slab_tenebra": {
+    "criteria": {
+      "has_material": "2024-12-23 17:23:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2024-12-22 01:42:44 +0000"
@@ -738,6 +744,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/tenebra_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-23 17:23:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 19:32:38 +0000"
@@ -825,6 +837,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/wood_defiled_slab_tenebra_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-23 17:23:39 +0000"
     },
     "done": true
   },
